@@ -1,6 +1,7 @@
 {
     "version": "1.0.0",
     "id": "com_imdevinc_StreamControllerDebugPlugin",
+    "thumbnail": "",
     "name": "Debug",
     "descriptions": {
         "en_US": "Provides debugging tools for Stream Controller"
