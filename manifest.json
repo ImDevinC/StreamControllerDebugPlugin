@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "id": "com_imdevinc_StreamControllerDebugPlugin",
+    "name": "Debug",
+    "descriptions": {
+        "en_US": "Provides debugging tools for Stream Controller"
+    },
+    "short-descriptions": {
+        "en_US": "Stream Controller Debug Tools"
+    },
+    "tags": ["Utilities"],
+    "minimum-app-version": "1.5.0-beta.13",
+    "app-version": "1.5.0-beta.13",
+    "description": "Provides debugging tools for Stream Controller",
+    "short-description": "Stream Controller Debug Tools"
+}
